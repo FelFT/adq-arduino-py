@@ -12,5 +12,3 @@ Se conecta un potenciómetro a la alimentación de 5 V y a GND. La salida analó
 
 ![Circuito](https://github.com/FelFT/adq-arduino-py/blob/main/img/circuit.png)
 
-Jamás la había visto en mi vida 
-Salió de la nada 
