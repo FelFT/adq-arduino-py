@@ -12,6 +12,11 @@ Se conecta un potenciómetro a la alimentación de 5 V y a GND. La salida analó
 
 ![Circuito](https://github.com/FelFT/adq-arduino-py/blob/main/img/circuit.png)
 
+## Configuración de Visual Studio Code
+Para utilizar Arduino en Visual Studio Code se requiere instalar la extensión de Arduino.
+
+Asimismo, se requiere la extención de C/C++, para que se pueda programar la tarjeta Arduino.
+
 ## Programación en Arduino
 Se crea un archivo de Arduino `send.ino`, para definir la adquisición de los datos y enviarlos por el puerto serial
 
