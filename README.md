@@ -17,6 +17,8 @@ Para utilizar Arduino en Visual Studio Code se requiere instalar la extensión d
 
 Asimismo, se requiere la extención de C/C++, para que se pueda programar la tarjeta Arduino.
 
+Por último, se requiere la extensión de Python para compilar el programa en Python.
+
 ## Programación en Arduino
 Se crea un archivo de Arduino `send.ino`, para definir la adquisición de los datos y enviarlos por el puerto serial
 
