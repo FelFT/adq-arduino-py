@@ -1,6 +1,6 @@
 # adq-arduino-py
 
-## Requisitos
+## Requisitos previos
 - [Tarjeta Arduino UNO]()
 - Potenciómetro 
 - [Visual Studio Code]()
