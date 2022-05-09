@@ -1,11 +1,11 @@
 # adq-arduino-py
 
 ## Requisitos previos
-- [Tarjeta Arduino UNO]()
+- [Tarjeta Arduino UNO](https://www.arduino.cc/en/Main/arduinoBoardUno&gt;?msclkid=ee8ac1cfcf4611ec91fda910a5aef743)
 - Potenciómetro 
-- [Visual Studio Code]()
-  - Extensión Arduino
-  - Extensión Python
+- [Visual Studio Code](https://code.visualstudio.com/)
+  - [Extensión para Arduino](https://marketplace.visualstudio.com/items?itemName=vsciot-vscode.vscode-arduino)
+  - [Extensión Python](https://marketplace.visualstudio.com/items?itemName=ms-python.python)
  
  ## Conexiones del circuito
 Se selecciona un potenciómetro de cualquier valor, y se conectan las terminales de los extremos a la alimentación de 5 V y a GND. La salida analógica se conecta al pin A0. El circuito se muestra a continuación.
