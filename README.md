@@ -1,7 +1,7 @@
 # adq-arduino-py
 
 ## Requisitos previos
-- [Tarjeta Arduino UNO](https://www.arduino.cc/en/Main/arduinoBoardUno&gt;?msclkid=ee8ac1cfcf4611ec91fda910a5aef743)
+- [Tarjeta Arduino UNO](https://www.arduino.cc/en/Main/arduinoBoardUno)
 - Potenciómetro 
 - [Visual Studio Code](https://code.visualstudio.com/)
   - [Extensión para Arduino](https://marketplace.visualstudio.com/items?itemName=vsciot-vscode.vscode-arduino)
